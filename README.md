@@ -1,4 +1,6 @@
 
+### Технологии, используемые мной при разработке:
+
 <p>
     <img alt="HTML5" src="https://img.shields.io/badge/-HTML-yellow?style=for-the-badge&logo=HTML5&logoColor=orange" />
     <img alt="CSS" src="https://img.shields.io/badge/-CSS-blue?style=for-the-badge&logo=HTML5&logoColor=white" />
